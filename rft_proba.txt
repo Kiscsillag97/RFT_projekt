@@ -1,0 +1,12 @@
+Rendszerterv:
+mi hogyan valósítjuk meg
+osztályhierachia
+adatmodell (fizikai, logikai szintû?)
+képernyõtervek
+
+Követelményspecifikáció:
+mit, milyen környezetben
+megrendelõtõl kapjuk, vagy kérésére csináljuk
+
+Funkcionális specifikáció:
+logikai adatmodell itt is megjelenhet
