@@ -10,3 +10,5 @@ megrendelõtõl kapjuk, vagy kérésére csináljuk
 
 Funkcionális specifikáció:
 logikai adatmodell itt is megjelenhet
+
+Ide írok valamit
