@@ -1,0 +1,14 @@
+Rendszerterv az RFT órai projektünkhöz
+Batki Martin
+Dobos Evelin
+Molnár Dóra
+
+Projekt terv megnevezése:
+Egy egyszerûbb, alap funkciókat ellátó nyilvántartó/leltározó rendszer fejlesztése. A terv, hogy különbözõ filmeket tudjuk felvinni az adatbázisba, majd azokat kilistázni.
+A program film címeket, kiadási éveket, IMDB értékeléseket és film kategóriákat fog tartalmazni. 
+
+Projektmunkások és felelõsségi köreik:
+Projekt vezetõ: Dobos Evelin
+Dokumentáció: mindenki, ellenõrzi Batki Martin
+Programkód: mindenki, ellenõrzi Dobos Evelin
+Képernyõterv, kinézet: Molnár Dóra
