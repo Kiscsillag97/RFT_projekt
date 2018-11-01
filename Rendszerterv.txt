@@ -12,3 +12,11 @@ Projekt vezetõ: Dobos Evelin
 Dokumentáció: mindenki, ellenõrzi Batki Martin
 Programkód: mindenki, ellenõrzi Dobos Evelin
 Képernyõterv, kinézet: Molnár Dóra
+
+Fizikai környezet:
+Feladatkezelés: trello.com
+Verziókezelés: github.com
+Fejlõsztõi környezet: NETBEANS IDE 8.2
+Programozási nyelv: Java
+Képernyõterv: wireframe.cc
+Adatbázis: Oracle
