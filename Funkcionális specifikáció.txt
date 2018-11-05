@@ -17,3 +17,5 @@ Követelménylista:
 -listázás kategóriák szerint
 -adott sorok törlése
 -adott sorok módosítása
+
+-ezt innen majd töröld ki
