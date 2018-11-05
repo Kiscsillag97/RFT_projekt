@@ -8,3 +8,12 @@ Szükség van egy adatbázisból filmeket kilistázó és rendszerezõ programra.
 
 Vágyálomrendszer leírása:
 Egy egyszerûbb, alap funkciókat ellátó nyilvántartó/leltározó rendszer. Különbözõ filmeket tudjuk felvinni az adatbázisba, majd azokat kilistázni, rendezni. Listázni tudjon külön kategóriák (pl. vígjáték) szerint, illetve rendezni tudjon kiadási év, film cím és IMDB értékelés alapján.
+
+Követelménylista:
+-adatbázisba való felvitel, hozzáférés
+-rendezés név szerint
+-rendezés kiadási év szerint
+-rendezés IMDB értékelés szerint
+-listázás kategóriák szerint
+-adott sorok törlése
+-adott sorok módosítása
