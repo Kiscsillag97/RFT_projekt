@@ -18,5 +18,14 @@ Feladatkezelés: trello.com
 Verziókezelés: github.com
 Fejlõsztõi környezet: NETBEANS IDE 8.2
 Programozási nyelv: Java
-Képernyõterv: wireframe.cc
-Adatbázis: Oracle
+Képernyõterv: wireframe.cc, www.gomockingbird.com
+Adatbázis: sqldeveloper
+
+Architekturális terv:
+MVC alkalmazás
+
+Program felépítése:
+- Interfészek
+- Modell (Model) részek
+- Nézet (View)
+- Vezérlõ (Controller) részek

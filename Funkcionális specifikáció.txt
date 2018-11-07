@@ -7,7 +7,14 @@ Jelenlegi helyzet leírása:
 Szükség van egy adatbázisból filmeket kilistázó és rendszerezõ programra.
 
 Vágyálomrendszer leírása:
-Egy egyszerûbb, alap funkciókat ellátó nyilvántartó/leltározó rendszer. Különbözõ filmeket tudjuk felvinni az adatbázisba, majd azokat kilistázni, rendezni. Listázni tudjon külön kategóriák (pl. vígjáték) szerint, illetve rendezni tudjon kiadási év, film cím és IMDB értékelés alapján.
+Egy egyszerûbb, alap funkciókat ellátó nyilvántartó/leltározó rendszer. Különbözõ filmeket tudjuk felvinni az adatbázisba, majd azokat kilistázni, rendezni. Listázni tudjon külön kategóriák (pl. vígjáték) szerint, illetve rendezni tudjon kiadási év, film cím és IMDB értékelés alapján. A korábban felvitt IMDB értékelést módosítani is tudjuk, ha szeretnénk.
+
+A rendszerre vonatkozó pályázat, törvények, rendeletek, szabványok és ajánlások felsorolása: ...
+
+Jelenlegi üzleti folyamatok modellje:
+Felhasználandó erõforrásaink:
+	idõnk és energiánk
+	munkaeszközeink (saját számítógépek, laptopok) 
 
 Követelménylista:
 -adatbázisba való felvitel, hozzáférés
@@ -18,4 +25,5 @@ Követelménylista:
 -adott sorok törlése
 -adott sorok módosítása
 
--ezt innen majd töröld ki
+Képernyõtervek:
+Lásd a linket a Képernyõterv mappában.

@@ -13,3 +13,12 @@ Jelenlegi üzleti folyamatok modellje:
 Felhasználandó erõforrásaink:
 	idõnk és energiánk
 	munkaeszközeink (saját számítógépek, laptopok)
+
+Követelménylista:
+-adatbázisba való felvitel, hozzáférés
+-rendezés név szerint
+-rendezés kiadási év szerint
+-rendezés IMDB értékelés szerint
+-listázás kategóriák szerint
+-adott sorok törlése
+-adott sorok módosítása
